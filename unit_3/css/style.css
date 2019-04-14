@@ -1,0 +1,57 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: url(images/venice.jpg);
+	background-size: cover;
+	font-family: ;
+	font-size: ;
+	color: #;
+	line-height: ;
+}
+
+header { 
+	background-color: # ;
+	padding: ;
+ }
+
+ h1 {
+ 	color: #;
+ }
+
+ h2 {
+ 	color: #;
+ 	font-style: italic;
+
+ }
+
+ h3 {
+ 	text-align: center;
+ }
+
+a {
+ 	color: inherit;
+ 	text-decoration: none;
+ }
+ nav a {
+ 	color: ;
+ 	font-style: ;
+ 	margin-right: 10px;
+ 	text-align: left;
+ }
+
+ img {
+ 	width: 100%;
+ }
+
+footer{
+	background-color: ;
+	padding: 20px;
+	text-align: center;
+}
+
+aside {
+
+}
