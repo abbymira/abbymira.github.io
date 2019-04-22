@@ -1,4 +1,4 @@
-* {
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Cedarville+Cursive|Waiting+for+the+Sunrise|Wire+One|Zeyada');
 	padding: 0;
 	margin: 0;
 }
@@ -6,7 +6,7 @@
 body {
 	background: url(../images/venice.jpg);
 	background-size: cover;
-	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+	font-family: ;
 	font-size: ;
 	color: #;
 	line-height: ;
@@ -19,14 +19,16 @@ header {
  }
 
  h1 {
+ 	font-family: Cedarville Cursive, Helvetica, Times New Roman, sans-serif;
  	color: #;
  	font-size: 30px;
  }
 
  h2 {
+ 	font-family: Wire One, Helvetica, Times New Roman, serif ;
  	color: #;
- 	font-style: italic;
- 	font-size: 20px;
+ 	font-style: ;
+ 	font-size: 30px;
 
  }
 
@@ -46,8 +48,10 @@ a {
  nav {
  	color: ;
  	font-style: ;
+ 	font-family: Wire One, Helvetica, Times New Roman, serif;
  	margin-right: 15px;
  	text-align: right;
+ 	font-size: 30px;
  }
 
  nav a {
@@ -59,7 +63,8 @@ a {
  }
 
 footer{
-	background-color: ;
+	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+	background-color: #1EC8EB;
 	padding: 20px;
 	text-align: center;
 	position: fixed;
