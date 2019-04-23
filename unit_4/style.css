@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC|Cedarville+Cursive|Waiting+for+the+Sunrise|Wire+One|Zeyada');
-
-*{
+* {
 	padding: 0;
 	margin: 0;
 }
 
 
 body {
-	background: url(../images/venice.jpg);
+	background: url(../../unit_3/images/venice.jpg);
 	background-size: cover;
 	font-family: ;
 	font-size: ;
@@ -33,7 +32,6 @@ header {
  	color: #;
  	font-style: ;
  	font-size: 30px;
-
  }
 
  h3 {
@@ -41,7 +39,6 @@ header {
  	padding-top: 275px;
  	font-size: 30px;
  	color: #FFC517;
-
  }
 
 a {
@@ -50,8 +47,6 @@ a {
  }
 
  nav {
- 	color: ;
- 	font-style: ;
  	font-family: Wire One, Helvetica, Times New Roman, serif;
  	margin-right: 15px;
  	text-align: right;
@@ -70,7 +65,7 @@ footer{
 	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
 	background-color: #1EC8EB;
 	padding: 20px;
-	text-align: center;
+	text-align: right;
 	position: fixed;
 	left: 0;
 	bottom: 0;
