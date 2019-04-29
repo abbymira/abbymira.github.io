@@ -18,8 +18,9 @@ header {
 	padding: 20px;
 	font-size: 20px;
 	background-color: #1EC8EB;
-	position: fixed;
+	position: sticky;
 	border: solid 5px black;
+	top:0;
  }
 
  h1 {
@@ -64,8 +65,8 @@ a {
 footer{
 	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
 	background-color: #1EC8EB;
-	padding: 20px;
-	text-align: right;
+	padding: 20px 0;
+	text-align: center;
 	position: fixed;
 	left: 0;
 	bottom: 0;
