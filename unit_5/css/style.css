@@ -17,9 +17,9 @@ body {
 header { 
 	padding: 20px;
 	font-size: 20px;
-	background-color: #1EC8EB;
+	background-color: #FFEADB;
 	position: sticky;
-	border: solid 5px black;
+	border: solid 3px black;
 	top:0;
  }
 
@@ -42,11 +42,6 @@ header {
  	color: #FFC517;
  }
 
-a {
- 	color: inherit;
- 	text-decoration: none;
- }
-
  nav {
  	font-family: Wire One, Helvetica, Times New Roman, serif;
  	margin-right: 15px;
@@ -54,23 +49,33 @@ a {
  	font-size: 30px;
  }
 
+ a {
+ 	color: inherit;
+ 	text-decoration: none;
+ }
+
  nav a {
  	margin-right: 5px;
  }
 
  img {
- 	width: 100%;
+ 	width: 50%;
+ }
+
+ div {
+ 	float: left;
  }
 
 footer{
 	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
-	background-color: #1EC8EB;
+	background-color: #FFEADB;
 	padding: 20px 0;
 	text-align: center;
 	position: fixed;
 	left: 0;
 	bottom: 0;
 	width: 100%;
+	border: solid 3px black;
 }
 
 .fab {
