@@ -153,14 +153,12 @@ footer{
 
 	nav a {
 		margin: 0 1em 1em;
-		border: solid 2px black;
 	}
 
 	a:hover {
 		color: black;
 		background-color: white;
 	}
-
 
 
 	.col_3 {
